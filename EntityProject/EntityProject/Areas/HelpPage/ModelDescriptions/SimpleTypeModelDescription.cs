@@ -1,0 +1,6 @@
+namespace EntityProject.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
